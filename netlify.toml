@@ -5,5 +5,5 @@
 
  [[redirects]]
  from = "/*"
- to ="/index.html"
+ to ="/portfolio.html"
  status =200
